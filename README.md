@@ -1,0 +1,2 @@
+# gitkurs
+kurs i git
